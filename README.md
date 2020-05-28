@@ -6,4 +6,11 @@ Parallax Effect on Scrolling using Vannila JavaScript
 
 ![alt text][Output]
 
-[Output]: https://github.com/JagadishSivakumar/AI-Experiment-in-Js/blob/master/AI-Experiment.png
+[Output]: assets/Screenshot 2020-05-28 at 7.40.25 PM.png
+
+
+#### On Scrolling
+
+![alt text][Outputs]
+
+[Outputs]: assets/Screenshot 2020-05-28 at 7.40.37 PM.png
