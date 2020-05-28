@@ -6,11 +6,11 @@ Parallax Effect on Scrolling using Vannila JavaScript
 
 ![alt text][Output]
 
-[Output]: https://github.com/JagadishSivakumar/Parallax_Effect_on_Scrolling/assets/Screenshota.png
+[Output]: https://github.com/JagadishSivakumar/Parallax_Effect_on_Scrolling/assets/ssa.png
 
 
 #### On Scrolling
 
 ![alt text][Outputs]
 
-[Outputs]: https://github.com/JagadishSivakumar/Parallax_Effect_on_Scrolling/assets/Screenshotb.png
+[Outputs]: https://github.com/JagadishSivakumar/Parallax_Effect_on_Scrolling/assets/ssb.png
